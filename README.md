@@ -1,1 +1,1 @@
-# Code files for the paper "Influence of background preprocessing on the performance of deep learning retinal vessel detection" by James Owler & Peter Rockett
+# Code files for the paper "Influence of background preprocessing on the performance of deep learning retinal vessel detection" by James Owler & Peter Rockett, J. of Medical Imaging, 8(6), 064001 (2021). https://doi.org/10.1117/1.JMI.8.6.064001
